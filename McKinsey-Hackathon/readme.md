@@ -1,0 +1,1 @@
+This is a folder to register the progress of McKinsey's data analysis challenge
